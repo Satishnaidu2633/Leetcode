@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satishnaidu2633/Leetcode/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Satishnaidu2633/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Satishnaidu2633/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Satishnaidu2633/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Satishnaidu2633/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
