@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Satishnaidu2633/Leetcode/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/Satishnaidu2633/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satishnaidu2633/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satishnaidu2633/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Satishnaidu2633/Leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Satishnaidu2633/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satishnaidu2633/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satishnaidu2633/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Satishnaidu2633/Leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
