@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Satishnaidu2633/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Satishnaidu2633/Leetcode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Satishnaidu2633/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
